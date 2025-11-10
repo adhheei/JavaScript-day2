@@ -1,7 +1,4 @@
-# JavaScript-day2
-
-
-📘 JavaScript – Day 2
+# 📘 JavaScript – Day 2
 
 This repository contains beginner-level JavaScript programs that focus on decision-making and control flow.
 
